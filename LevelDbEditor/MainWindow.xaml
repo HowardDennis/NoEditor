@@ -13,7 +13,7 @@
             </DataGrid.Columns>
         </DataGrid>
         <WrapPanel HorizontalAlignment="Center" DockPanel.Dock="Top" >
-            <Button x:Name="btnAddRow" Click="btnAddRow_Click" Content="Add Row"/>
+            <Button x:Name="btnAddRow" Click="btnAddRow_Click" Content="Add Row Boyo"/>
             <Button x:Name="btnSaveFile" Click="btnSaveFile_Click" Content="Save file" Margin="3,0,0,0" />
         </WrapPanel>
     </Grid>
